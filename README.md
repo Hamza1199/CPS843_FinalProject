@@ -4,7 +4,7 @@ The project explores different object tracking methods for self-driving vehicles
 MATLAB code used:
 
 Lidar Object Detection
-https://www.mathworks.com/help/driving/ug/grid-based-tracking-in-urban-environments-using-multiple-lidars.html
+https://www.mathworks.com/help/driving/ug/track-vehicles-using-lidar.html
 
 Radar Tracking
 https://www.mathworks.com/help/driving/ug/multipath-radar-detection-and-tracking.html
