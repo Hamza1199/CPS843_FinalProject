@@ -76,3 +76,6 @@ for i = 1:numel(detectionLog)
     trueClassificationInfo = helperTrueClassificationInfo(detections);
     confMat(:,:,i) = helperConfusionMatrix(trueClassificationInfo, classificationInfo);
 end
+
+% MATLAB LINK FOR CODE
+% https://www.mathworks.com/help/driving/ug/multipath-radar-detection-and-tracking.html
